@@ -1,4 +1,4 @@
-# Garrett Stallsmith's GitHub Profile
+# Garrett Stallsmith - gwstallsmith
 
 Hello, I'm Garrett Stallsmith! 👋
 - Pronouns: He/Him
