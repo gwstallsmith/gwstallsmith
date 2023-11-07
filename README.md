@@ -18,7 +18,7 @@ Hello, I'm Garrett Stallsmith! 👋
 - I enjoy learning and teaching math. Especially __Algebra__, __Trigonometry__, and __Calculus__.
 <hr>
 
-![Resume](resume.jpg)
+<><><><><><>![Resume](resume.jpg)
 
 <hr>
 
