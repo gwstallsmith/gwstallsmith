@@ -11,10 +11,7 @@ I'm a software developer with a passion for coding and a few key areas of intere
 
 - **Technologies**: I specialize in HTML, JavaScript, and CSS for web development. I'm also fascinated by Cryptography and enjoy exploring Object-Oriented Programming concepts.
 
-<iframe src="'Garrett Stallsmith Resume - 10-17-2023'.pdf"></iframe>
-
-
-
+![Resume](resume.jpg)
 
 ## Connect with Me
 
