@@ -11,7 +11,9 @@ I'm a software developer with a passion for coding and a few key areas of intere
 
 - **Technologies**: I specialize in HTML, JavaScript, and CSS for web development. I'm also fascinated by Cryptography and enjoy exploring Object-Oriented Programming concepts.
 
-![Resume](resume.jpg)
+<div style="text-aligh:center;">
+    ![Resume](resume.jpg)
+</div>
 
 ## Connect with Me
 
