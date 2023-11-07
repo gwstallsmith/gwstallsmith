@@ -11,6 +11,14 @@ I'm a software developer with a passion for coding and a few key areas of intere
 
 - **Technologies**: I specialize in HTML, JavaScript, and CSS for web development. I'm also fascinated by Cryptography and enjoy exploring Object-Oriented Programming concepts.
 
+<object data="'Garrett Stallsmith Resume - 10-17-2023'.pdf" type="application/pdf">
+    <embed src="'Garrett Stallsmith Resume - 10-17-2023'.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="'Garrett Stallsmith Resume - 10-17-2023'.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
 ## Connect with Me
 
 - GitHub: [GitHub Profile](https://github.com/gwstallsmith)
