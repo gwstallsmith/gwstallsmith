@@ -20,3 +20,5 @@ Hello, I'm Garrett Stallsmith! 👋
 If you find my work interesting or valuable, consider giving my repositories a ⭐️ on GitHub. It's much appreciated!
 
 Thank you for visiting my GitHub profile.
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
