@@ -10,12 +10,9 @@ Hello, I'm Garrett Stallsmith! 👋
 
 ## About Me
 
-**I'm a software developer with a passion for cyber security and coding with a few key areas of interest:**
+**I'm a software developer with a passion for coding with a few projects under my belt.**
 
 - I specialize in __Information Technology__ and __Cyber Security__. I'm fascinated by __Cryptography__ and enjoy exploring __Data Security__ concepts.
-- I enjoy __Secure Programming__ and employing security principles to hide data from the bad guys.
-- I use __HTML, JavaScript, Python, and CSS__ for web development.
-- I also use __p5.js__ for computer animation.
 - I enjoy learning and teaching math. Especially __Algebra__, __Trigonometry__, and __Calculus__.
 <hr>
 
